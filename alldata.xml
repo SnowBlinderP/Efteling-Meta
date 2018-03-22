@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rides>
+	<ontmoeteftelingbewoners>
+		<realname>ontmoet efteling bewoners</realname>
+	</ontmoeteftelingbewoners>
+	<pardoesdetovernar>
+		<realname>pardoes de tovernar</realname>
+	</pardoesdetovernar>
+	<prinsespardijn>
+		<realname>prinses pardijn</realname>
+	</prinsespardijn>
+	<hetwapenvanraveleijn>
+		<realname>het wapen van raveleijn</realname>
+	</hetwapenvanraveleijn>
+	<kleyneklaroen>
+		<realname>kleyne klaroen</realname>
+	</kleyneklaroen>
+	<denguldengaarde>
+		<realname>den gulden gaarde</realname>
+	</denguldengaarde>
+	<hoorndesovervloeds>
+		<realname>hoorn des overvloeds</realname>
+	</hoorndesovervloeds>
+	<kinderspoor>
+		<area>Ruigrijk</area>
+		<minlength>&#60;1,20 m onder begeleiding</minlength>
+		<openingdate>1954</openingdate>
+		<quetype>Buiten</quetype>
+		<speed>Afhankelijk van bestuurder</speed>
+		<trains>14</trains>
+		<type>Treinparcours</type>
+	</kinderspoor>
+	<sprookjesboomshow>
+		<realname>sprookjesboom show</realname>
+	</sprookjesboomshow>
+	<hetwittepaard>
+		<realname>het witte paard</realname>
+	</hetwittepaard>
+	<happinessstationwp>
+		<realname>happiness station het witte paard</realname>
+	</happinessstationwp>
+	<tpoffertje>
+		<realname>t poffertje</realname>
+	</tpoffertje>
+	<grootmoederskeuken>
+		<realname>grootmoeders keuken</realname>
+	</grootmoederskeuken>
+	<halvemaen>
+		<babyswitch>true</babyswitch>
+		<area>Ruigrijk</area>
+		<minlength>Kinderen &#60;1,20 m onder begeleiding</minlength>
+		<openingdate>april 1982</openingdate>
+		<quetype>Gedeeltelijk overdekt</quetype>
+		<copacity>1200 per uur</copacity>
+		<rideduration>2 &#192; 3 minuten</rideduration>
+		<trackheight>20</trackheight>
+		<type>Schommelschip</type>
+		<unavaliblefor>Zwangere vrouwen</unavaliblefor>
+	</halvemaen>
+	<hetsuykerhuys>
+		<realname>het suyker huys</realname>
+	</hetsuykerhuys>
+	<panoramalacarte>
+		<realname>panorama lacarte</realname>
+	</panoramalacarte>
+	<panoramaselfservice>
+		<realname>panorama (self-service)</realname>
+	</panoramaselfservice>
+	<doudetuffer>
+		<area>Ruigrijk</area>
+		<minlength>Kinderen &#60;1,20 m onder begeleiding</minlength>
+		<openingdate>14 april 1984</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1200 per uur</copacity>
+		<rideduration>6 minuten</rideduration>
+		<speed>6,5 km/u</speed>
+		<type>Rondrit in T-fordjes</type>
+	</doudetuffer>
+	<polleskeuken>
+		<realname>polles keuken</realname>
+	</polleskeuken>
+	<rondjevandemolen>
+		<realname>rondje van de molen</realname>
+	</rondjevandemolen>
+	<degebrandeboon>
+		<realname>de gebrande boon</realname>
+	</degebrandeboon>
+	<tokopagode>
+		<realname>toko pagode</realname>
+	</tokopagode>
+	<stationdeoost>
+		<realname>station de oost</realname>
+	</stationdeoost>
+	<stoomcarrousel>
+		<area>Marerijk</area>
+		<openingdate>11 mei 1956</openingdate>
+		<copacity>400 per uur</copacity>
+		<rideduration>2 minuten</rideduration>
+		<type>Saloncarrousel, galloper</type>
+	</stoomcarrousel>
+	<polkamarina>
+		<area>Anderrijk</area>
+		<minlength>Kinderen &#60;1,20 m onder begeleiding</minlength>
+		<openingdate>14 april 1984</openingdate>
+		<rideduration>2 minuten</rideduration>
+		<speed>20 km/u</speed>
+		<trains>23 koggen</trains>
+		<type>Koggemolen</type>
+		<unavaliblefor>Rolstoelgebruikers</unavaliblefor>
+	</polkamarina>
+	<debazaar>
+		<realname>de bazaar</realname>
+	</debazaar>
+	<stoomtreinr>
+		<area>Ruigrijk</area>
+		<minlength>Kinderen &#60;1,20 m onder begeleiding</minlength>
+		<realname>stoomtrein (ruigrijk)</realname>
+		<openingdate>31 maart 1969</openingdate>
+		<quetype>Overdekt</quetype>
+		<rideduration>tussen de 15 en 20 minuten (complete rit)</rideduration>
+		<type>Smalspoorstoomtrein</type>
+	</stoomtreinr>
+	<stoomtreinm>
+		<realname>stoomtrein (marerijk)</realname>
+	</stoomtreinm>
+	<dekombuys>
+		<realname>de kombuys</realname>
+	</dekombuys>
+	<demeermin>
+		<realname>de meermin</realname>
+	</demeermin>
+	<hetseylendfregat>
+		<realname>het seylend fregat</realname>
+	</hetseylendfregat>
+	<wittewalvis>
+		<realname>witte walvis</realname>
+	</wittewalvis>
+	<indenoudenmarskramer>
+		<realname>inden ouden marskramer</realname>
+	</indenoudenmarskramer>
+	<droomvlucht>
+		<babyswitch>true</babyswitch>
+		<area>Marerijk</area>
+		<minlength>Kinderen &#60;1 m onder begeleiding</minlength>
+		<openingdate>9 mei 1993</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1800 per uur</copacity>
+		<rideduration>6 minuten</rideduration>
+		<speed>20 km/u</speed>
+		<trains>28</trains>
+		<trackheight>13</trackheight>
+		<type>Darkride</type>
+		<unavaliblefor>Rolstoelgebruikers</unavaliblefor>
+	</droomvlucht>
+	<python>
+		<babyswitch>true</babyswitch>
+		<area>Ruigrijk</area>
+		<minlength>1,20 m</minlength>
+		<openingdate>12 april 1981</openingdate>
+		<copacity>1440 per uur</copacity>
+		<rideduration>2 minuten en 8 seconden</rideduration>
+		<speed>85 km/u</speed>
+		<photopoint>fotopuntpython</photopoint>
+		<trains>2</trains>
+		<trackheight>29</trackheight>
+		<type>Stalen achtbaan, multilooper</type>
+		<unavaliblefor>Mensen met lichamelijk letsel</unavaliblefor>
+		<builder>Vekoma</builder>
+	</python>
+	<casacaracol>
+		<realname>casa caracol</realname>
+	</casacaracol>
+	<desteenbok>
+		<realname>de steenbok</realname>
+	</desteenbok>
+	<burgerbackerij>
+		<realname>burger backerij</realname>
+	</burgerbackerij>
+	<devliegendehollander>
+		<babyswitch>true</babyswitch>
+		<area>Ruigrijk</area>
+		<minlength>1,20 m</minlength>
+		<realname>de vliegende hollander</realname>
+		<openingdate>17 juni 2007</openingdate>
+		<copacity>1900 per uur (theoretisch), in de praktijk 1000</copacity>
+		<rideduration>3:43 minuten</rideduration>
+		<speed>70 km/h</speed>
+		<photopoint>fotopuntdevliegendehollander</photopoint>
+		<trains>11 boten</trains>
+		<trackheight>22.5</trackheight>
+		<type>Waterachtbaan</type>
+		<unavaliblefor>Zwangere vrouwen</unavaliblefor>
+		<builder>Kumbak</builder>
+	</devliegendehollander>
+	<hollandsegebakskraam>
+		<realname>hollandse gebaks kraam</realname>
+	</hollandsegebakskraam>
+	<devrolijkenoot>
+		<realname>de vrolijke noot</realname>
+	</devrolijkenoot>
+	<villavolta>
+		<babyswitch>true</babyswitch>
+		<area>Marerijk</area>
+		<minlength>Kinderen &#60;1 m onder begeleiding</minlength>
+		<realname>villa volta</realname>
+		<openingdate>4 april 1996</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1200 per uur</copacity>
+		<rideduration>10 minuten</rideduration>
+		<type>Madhouse</type>
+	</villavolta>
+	<jorisendedraak>
+		<babyswitch>true</babyswitch>
+		<area>Ruigrijk</area>
+		<minlength>1,10 m</minlength>
+		<realname>joris en de draak</realname>
+		<openingdate>1 juli 2010</openingdate>
+		<quetype>Buiten</quetype>
+		<copacity>1700 per uur</copacity>
+		<rideduration>2 minuten</rideduration>
+		<speed>75 km/h</speed>
+		<photopoint>fotopuntjorisendedraak</photopoint>
+		<trains>4</trains>
+		<trackheight>25</trackheight>
+		<type>Houten race-achtbaan</type>
+		<builder>Great Coasters International</builder>
+	</jorisendedraak>
+	<baron1898>
+		<babyswitch>true</babyswitch>
+		<area>Ruigrijk</area>
+		<frontrow>baron1898frontrow</frontrow>
+		<minlength>1,40 m</minlength>
+		<openingdate>1 juli 2015</openingdate>
+		<quetype>Buiten met overdekte stukjes</quetype>
+		<copacity>900 per uur</copacity>
+		<rideduration>130 sec</rideduration>
+		<speed>90 km/u</speed>
+		<photopoint>fotopuntbaron1898</photopoint>
+		<trains>3</trains>
+		<singleriderid>baron1898singlerider</singleriderid>
+		<trackheight>30</trackheight>
+		<type>Divecoaster</type>
+		<unavaliblefor>Mensen met lichamelijk letsel</unavaliblefor>
+		<builder>Bolliger & Mabillard</builder>
+	</baron1898>
+	<baron1898singlerider>
+		<realname>baron1898 (singlerider)</realname>
+		<builder>Bolliger & Mabillard</builder>
+	</baron1898singlerider>
+	<carnavalfestival>
+		<area>Reizenrijk</area>
+		<minlength>Kinderen &#60;1 m onder begeleiding</minlength>
+		<realname>carnaval festival</realname>
+		<openingdate>1 juni 1984</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1600 per uur</copacity>
+		<speed>1,8 km/h</speed>
+		<photopoint>fotopuntcarnavalfestival</photopoint>
+		<trains>118</trains>
+		<type>Darkride</type>
+	</carnavalfestival>
+	<kindervreugd>
+		<area>Marerijk</area>
+		<openingdate>1935</openingdate>
+		<type>Speeltuin</type>
+	</kindervreugd>
+	<volkvanlaafmonorail>
+		<area>Marerijk</area>
+		<minlength>Kinderen &#60;1,20 m onder begeleiding</minlength>
+		<realname>volk van laaf monorail</realname>
+		<openingdate>12 april 1990 (trappers) en 13 april 1995 (elektrisch)</openingdate>
+		<quetype>Gedeeltelijk overdekt</quetype>
+		<rideduration>7 minuten</rideduration>
+		<trains>25</trains>
+		<type>Monorail</type>
+		<unavaliblefor>Rolstoekgebruikers</unavaliblefor>
+	</volkvanlaafmonorail>
+	<carrouselsantonpieckplein>
+		<area>Marerijk</area>
+		<minlength>Kinderen &#60;1 m onder begeleiding</minlength>
+		<realname>carrousels (antonpieck plein)</realname>
+		<type>carousels</type>
+	</carrouselsantonpieckplein>
+	<monsieurcannibale>
+		<area>Reizenrijk</area>
+		<minlength>Kinderen &#60;1 m onder begeleiding</minlength>
+		<realname>monsieur cannibale</realname>
+		<openingdate>3 mei 1988</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1200 per uur</copacity>
+		<rideduration>2:20 of 3 minuten</rideduration>
+		<trains>12</trains>
+		<type>Theekopjesattractie</type>
+	</monsieurcannibale>
+	<fotopuntbobbaan>
+		<realname>bobbaan (fotopunt)</realname>
+	</fotopuntbobbaan>
+	<fotopuntpiraa>
+		<realname>piraña (fotopunt)</realname>
+	</fotopuntpiraa>
+	<vogelrok>
+		<babyswitch>true</babyswitch>
+		<area>Reizenrijk</area>
+		<minlength>1,20 m</minlength>
+		<openingdate>9 april 1998</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1600 per uur</copacity>
+		<rideduration>1:31 minuten</rideduration>
+		<speed>65 km/h</speed>
+		<trains>3 treinen met 6 coaches</trains>
+		<trackheight>25</trackheight>
+		<type>Overdekte stalen achtbaan</type>
+		<unavaliblefor>Mensen met lichamelijk letsel</unavaliblefor>
+		<builder>Vekoma</builder>
+	</vogelrok>
+	<eftelingmuseum>
+		<area>Marerijk</area>
+		<realname>efteling museum</realname>
+		<openingdate>1 apr 2004</openingdate>
+		<type>museum</type>
+	</eftelingmuseum>
+	<avonturendoolhof>
+		<area>Reizenrijk</area>
+		<realname>avonturen doolhof</realname>
+		<openingdate>13 april 1995</openingdate>
+		<type>Doolhof</type>
+	</avonturendoolhof>
+	<fotopuntdevliegendehollander>
+		<realname> de vliegende hollander (fotopunt)</realname>
+	</fotopuntdevliegendehollander>
+	<fotopuntjorisendedraak>
+		<realname>joris en de draak (fotopunt)</realname>
+	</fotopuntjorisendedraak>
+	<kleuterhof>
+		<area>Reizenrijk</area>
+		<openingdate>1994</openingdate>
+		<type>Speeltuin</type>
+	</kleuterhof>
+	<gondoletta>
+		<area>Reizenrijk</area>
+		<minlength>Kinderen &#60;1,20 m onder begeleiding</minlength>
+		<openingdate>13 april 1981</openingdate>
+		<quetype>Buiten</quetype>
+		<copacity>720 per uur</copacity>
+		<rideduration>20 minuten</rideduration>
+		<trains>40</trains>
+		<type>Tow Boat Ride</type>
+	</gondoletta>
+	<fotopuntpython>
+		<realname>python (fotopunt)</realname>
+	</fotopuntpython>
+	<fotopuntbaron1898>
+		<realname>baron1898 (fotopunt)</realname>
+	</fotopuntbaron1898>
+	<pagode>
+		<area>Reizenrijk</area>
+		<minlength>1,10 m</minlength>
+		<openingdate>1987</openingdate>
+		<copacity>720 per uur</copacity>
+		<rideduration>5 min 10 sec</rideduration>
+		<type>Uitkijktoren</type>
+	</pagode>
+	<pandadroom>
+		<area>Anderrijk</area>
+		<openingdate>28 maart 2002</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1200 per rit</copacity>
+		<rideduration>10 minuten</rideduration>
+		<type>3D-bioscoop</type>
+	</pandadroom>
+	<spookslot>
+		<area>Anderrijk</area>
+		<openingdate>10 mei 1978</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1000 per uur</copacity>
+		<rideduration>7 minuten</rideduration>
+		<type>Spookhuis</type>
+	</spookslot>
+	<pirana>
+		<babyswitch>true</babyswitch>
+		<area>Anderrijk</area>
+		<minlength>&#60;1 m op schoot</minlength>
+		<realname>piraña</realname>
+		<openingdate>18 mei 1983</openingdate>
+		<quetype>Buiten</quetype>
+		<copacity>2000 per uur</copacity>
+		<rideduration>5 minuten</rideduration>
+		<speed>20 km/h</speed>
+		<photopoint>fotopuntpiraa</photopoint>
+		<trains>45</trains>
+		<type>Rapid river</type>
+		<unavaliblefor>Mensen met lichamelijk letsel</unavaliblefor>
+	</pirana>
+	<bobbaan>
+		<babyswitch>true</babyswitch>
+		<area>Anderrijk</area>
+		<minlength>zelfstandig kunnen lopen</minlength>
+		<openingdate>4 april 1985</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>750 per uur</copacity>
+		<rideduration>2:10 minuten</rideduration>
+		<speed>60 km/h</speed>
+		<photopoint>fotopuntbobbaan</photopoint>
+		<trains>8</trains>
+		<singleriderid>bobsingleriders</singleriderid>
+		<trackheight>20</trackheight>
+		<type>Bobslee-achtbaan</type>
+		<unavaliblefor>Mensen met lichamelijk letsel, zwangere vrouwen</unavaliblefor>
+		<builder>Intamin AG</builder>
+	</bobbaan>
+	<bobsingleriders>
+		<realname>bobbaan (singleriders)</realname>
+	</bobsingleriders>
+	<fatamorgana>
+		<area>Anderrijk</area>
+		<minlength>&#60;1,20 m onder begeleiding</minlength>
+		<realname>fata morgana</realname>
+		<openingdate>27 maart 1986</openingdate>
+		<quetype>Overdekt</quetype>
+		<copacity>1800 per uur</copacity>
+		<rideduration>8 minuten</rideduration>
+		<speed>2 km/u</speed>
+		<trains>14</trains>
+		<type>Darkride</type>
+		<builder>Intamin AG</builder>
+	</fatamorgana>
+	<symbolica>
+		<babyswitch>true</babyswitch>
+		<area>Fantasierijk</area>
+		<minlength>Kinderen &#60;1 m onder begeleiding</minlength>
+		<quetype>Buiten</quetype>
+		<copacity>1400 per uur</copacity>
+		<rideduration>6-7 min</rideduration>
+		<photopoint>fotopuntsymbolica</photopoint>
+		<trains>34 (in groepen van 3)</trains>
+		<singleriderid>symbolicasingleriders</singleriderid>
+		<type>Darkride</type>
+		<unavaliblefor>baby's</unavaliblefor>
+	</symbolica>
+	<symbolicasingleriders>
+		<realname>symbolica (singleriders)</realname>
+	</symbolicasingleriders>
+	<theaterrestaurantapplaus>
+		<realname>theater restaurant applaus</realname>
+	</theaterrestaurantapplaus>
+	<desoeteinval>
+		<realname>de soete inval</realname>
+	</desoeteinval>
+</rides>
+<areas>Marerijk</areas>
+<areas>Ruigrijk</areas>
+<areas>Anderrijk</areas>
+<areas>Reizenrijk</areas>
+<areas>Fantasierijk</areas>
+<meta>
+	<opening>31 mei 1952</opening>
+</meta>
+<residence>hotel</residence>
+<residence>bosrijk</residence>
+<residence>loonsche land</residence>
+<ids>ontmoeteftelingbewoners</ids>
+<ids>stichtinglezenenschrijven</ids>
+<ids>eenwonderlijkeontmoetingmetruiterthomas</ids>
+<ids>pardoesdetovernar</ids>
+<ids>prinsespardijn</ids>
+<ids>smalltalktonvandevenplein</ids>
+<ids>grootmoedersoudejaarsbingo</ids>
+<ids>smalltalkwittepaardplein</ids>
+<ids>babyblue</ids>
+<ids>boomerang</ids>
+<ids>sprookjesboomzingendansmee</ids>
+<ids>hetwapenvanraveleijn</ids>
+<ids>hetwapenvanraveleijnlunch</ids>
+<ids>kleyneklaroen</ids>
+<ids>denguldengaarde</ids>
+<ids>eigenheymertonvandevenplein</ids>
+<ids>hoorndesovervloeds</ids>
+<ids>smulpaap</ids>
+<ids>kinderspoor</ids>
+<ids>jokieswereld</ids>
+<ids>wafelsalondensuykerbuyk</ids>
+<ids>sprookjesboomshow</ids>
+<ids>hetwittepaard</ids>
+<ids>happinessstationwp</ids>
+<ids>tpoffertje</ids>
+<ids>gelaarsdekat</ids>
+<ids>gamegallery</ids>
+<ids>grootmoederskeuken</ids>
+<ids>sprookjessprokkelaar</ids>
+<ids>halvemaen</ids>
+<ids>hetsuykerhuys</ids>
+<ids>panoramalacarte</ids>
+<ids>panoramaselfservice</ids>
+<ids>panoramakiosk</ids>
+<ids>korfje</ids>
+<ids>pandashop</ids>
+<ids>doudetuffer</ids>
+<ids>polleskeuken</ids>
+<ids>rondjevandemolen</ids>
+<ids>degebrandeboon</ids>
+<ids>tokopagode</ids>
+<ids>stationdeoost</ids>
+<ids>stoomcarrousel</ids>
+<ids>polkamarina</ids>
+<ids>debazaar</ids>
+<ids>eigenheymerbijstationdeoost</ids>
+<ids>efteldingen</ids>
+<ids>stoomtreinr</ids>
+<ids>stoomtreinm</ids>
+<ids>dekombuys</ids>
+<ids>unoxkraamvliegendehollanderplein</ids>
+<ids>demeermin</ids>
+<ids>flierefluiter</ids>
+<ids>melkhuysje</ids>
+<ids>yoghurtbarbijbaron1898</ids>
+<ids>hetseylendfregat</ids>
+<ids>unoxkraampiraaplein</ids>
+<ids>wittewalvis</ids>
+<ids>indenoudenmarskramer</ids>
+<ids>droomvlucht</ids>
+<ids>python</ids>
+<ids>casacaracol</ids>
+<ids>pythonsinglerider</ids>
+<ids>desteenbok</ids>
+<ids>burgerbackerij</ids>
+<ids>stroopwafelchalet</ids>
+<ids>eigenheymersteenbokplein</ids>
+<ids>schnitzelchalet</ids>
+<ids>oase</ids>
+<ids>dromerijen</ids>
+<ids>devliegendehollander</ids>
+<ids>raveleijn</ids>
+<ids>octopus</ids>
+<ids>hollandsegebakskraam</ids>
+<ids>devrolijkenoot</ids>
+<ids>loetiek</ids>
+<ids>villavolta</ids>
+<ids>jorisendedraak</ids>
+<ids>baron1898</ids>
+<ids>baron1898singlerider</ids>
+<ids>carnavalfestival</ids>
+<ids>kindervreugd</ids>
+<ids>volkvanlaafmonorail</ids>
+<ids>jokieenjet</ids>
+<ids>carrouselsantonpieckplein</ids>
+<ids>monsieurcannibale</ids>
+<ids>fotopuntbobbaan</ids>
+<ids>fotopuntpiraa</ids>
+<ids>vogelrok</ids>
+<ids>eftelingmuseum</ids>
+<ids>avonturendoolhof</ids>
+<ids>fotopuntdevliegendehollander</ids>
+<ids>fotopuntjorisendedraak</ids>
+<ids>kleuterhof</ids>
+<ids>gondoletta</ids>
+<ids>fotopuntpython</ids>
+<ids>fotopuntbaron1898</ids>
+<ids>pagode</ids>
+<ids>pandadroom</ids>
+<ids>spookslot</ids>
+<ids>pirana</ids>
+<ids>bobbaan</ids>
+<ids>bobsingleriders</ids>
+<ids>fatamorgana</ids>
+<ids>sprookjesboomerwaseens</ids>
+<ids>symbolica</ids>
+<ids>symbolicasingleriders</ids>
+<ids>aquanura</ids>
+<ids>sprookjesboom</ids>
+<ids>theaterrestaurantapplaus</ids>
+<ids>desoeteinval</ids>

@@ -1,0 +1,578 @@
+{
+  "rides": {
+    "ontmoeteftelingbewoners": {
+      "realname": "ontmoet efteling bewoners"
+    },
+    "pardoesdetovernar": {
+      "realname": "pardoes de tovernar"
+    },
+    "prinsespardijn": {
+      "realname": "prinses pardijn"
+    },
+    "hetwapenvanraveleijn": {
+      "realname": "het wapen van raveleijn"
+    },
+    "kleyneklaroen": {
+      "realname": "kleyne klaroen"
+    },
+    "denguldengaarde": {
+      "realname": "den gulden gaarde"
+    },
+    "hoorndesovervloeds": {
+      "realname": "hoorn des overvloeds"
+    },
+    "kinderspoor": {
+      "area": "Ruigrijk",
+      "minlength": "&#60;1,20 m onder begeleiding",
+      "openingdate": "1954",
+      "quetype": "Buiten",
+      "speed": "Afhankelijk van bestuurder",
+      "trains": "14",
+      "type": "Treinparcours"
+    },
+    "sprookjesboomshow": {
+      "realname": "sprookjesboom show"
+    },
+    "hetwittepaard": {
+      "realname": "het witte paard"
+    },
+    "happinessstationwp": {
+      "realname": "happiness station het witte paard"
+    },
+    "tpoffertje": {
+      "realname": "t poffertje"
+    },
+    "grootmoederskeuken": {
+      "realname": "grootmoeders keuken"
+    },
+    "halvemaen": {
+      "babyswitch": true,
+      "area": "Ruigrijk",
+      "minlength": "Kinderen &#60;1,20 m onder begeleiding",
+      "openingdate": "april 1982",
+      "quetype": "Gedeeltelijk overdekt",
+      "copacity": "1200 per uur",
+      "rideduration": "2 &#192; 3 minuten",
+      "trackheight": 20,
+      "type": "Schommelschip",
+      "unavaliblefor": "Zwangere vrouwen"
+    },
+    "hetsuykerhuys": {
+      "realname": "het suyker huys"
+    },
+    "panoramalacarte": {
+      "realname": "panorama lacarte"
+    },
+    "panoramaselfservice": {
+      "realname": "panorama (self-service)"
+    },
+    "doudetuffer": {
+      "area": "Ruigrijk",
+      "minlength": "Kinderen &#60;1,20 m onder begeleiding",
+      "openingdate": "14 april 1984",
+      "quetype": "Overdekt",
+      "copacity": "1200 per uur",
+      "rideduration": "6 minuten",
+      "speed": "6,5 km/u",
+      "type": "Rondrit in T-fordjes"
+    },
+    "polleskeuken": {
+      "realname": "polles keuken"
+    },
+    "rondjevandemolen": {
+      "realname": "rondje van de molen"
+    },
+    "degebrandeboon": {
+      "realname": "de gebrande boon"
+    },
+    "tokopagode": {
+      "realname": "toko pagode"
+    },
+    "stationdeoost": {
+      "realname": "station de oost"
+    },
+    "stoomcarrousel": {
+      "area": "Marerijk",
+      "openingdate": "11 mei 1956",
+      "copacity": "400 per uur",
+      "rideduration": "2 minuten",
+      "type": "Saloncarrousel, galloper"
+    },
+    "polkamarina": {
+      "area": "Anderrijk",
+      "minlength": "Kinderen &#60;1,20 m onder begeleiding",
+      "openingdate": "14 april 1984",
+      "rideduration": "2 minuten",
+      "speed": "20 km/u",
+      "trains": "23 koggen",
+      "type": "Koggemolen",
+      "unavaliblefor": "Rolstoelgebruikers"
+    },
+    "debazaar": {
+      "realname": "de bazaar"
+    },
+    "stoomtreinr": {
+      "area": "Ruigrijk",
+      "minlength": "Kinderen &#60;1,20 m onder begeleiding",
+      "realname": "stoomtrein (ruigrijk)",
+      "openingdate": "31 maart 1969",
+      "quetype": "Overdekt",
+      "rideduration": "tussen de 15 en 20 minuten (complete rit)",
+      "type": "Smalspoorstoomtrein"
+    },
+    "stoomtreinm": {
+      "realname": "stoomtrein (marerijk)"
+    },
+    "dekombuys": {
+      "realname": "de kombuys"
+    },
+    "demeermin": {
+      "realname": "de meermin"
+    },
+    "hetseylendfregat": {
+      "realname": "het seylend fregat"
+    },
+    "wittewalvis": {
+      "realname": "witte walvis"
+    },
+    "indenoudenmarskramer": {
+      "realname": "inden ouden marskramer"
+    },
+    "droomvlucht": {
+      "babyswitch": true,
+      "area": "Marerijk",
+      "minlength": "Kinderen &#60;1 m onder begeleiding",
+      "openingdate": "9 mei 1993",
+      "quetype": "Overdekt",
+      "copacity": "1800 per uur",
+      "rideduration": "6 minuten",
+      "speed": "20 km/u",
+      "trains": "28",
+      "trackheight": 13,
+      "type": "Darkride",
+      "unavaliblefor": "Rolstoelgebruikers"
+    },
+    "python": {
+      "babyswitch": true,
+      "area": "Ruigrijk",
+      "minlength": "1,20 m",
+      "openingdate": "12 april 1981",
+      "copacity": "1440 per uur",
+      "rideduration": "2 minuten en 8 seconden",
+      "speed": "85 km/u",
+      "photopoint": "fotopuntpython",
+      "trains": "2",
+      "trackheight": 29,
+      "type": "Stalen achtbaan, multilooper",
+      "unavaliblefor": "Mensen met lichamelijk letsel",
+      "builder": "Vekoma"
+    },
+    "casacaracol": {
+      "realname": "casa caracol"
+    },
+    "desteenbok": {
+      "realname": "de steenbok"
+    },
+    "burgerbackerij": {
+      "realname": "burger backerij"
+    },
+    "devliegendehollander": {
+      "babyswitch": true,
+      "area": "Ruigrijk",
+      "minlength": "1,20 m",
+      "realname": "de vliegende hollander",
+      "openingdate": "17 juni 2007",
+      "copacity": "1900 per uur (theoretisch), in de praktijk 1000",
+      "rideduration": "3:43 minuten",
+      "speed": "70 km/h",
+      "photopoint": "fotopuntdevliegendehollander",
+      "trains": "11 boten",
+      "trackheight": 22.5,
+      "type": "Waterachtbaan",
+      "unavaliblefor": "Zwangere vrouwen",
+      "builder": "Kumbak"
+    },
+    "hollandsegebakskraam": {
+      "realname": "hollandse gebaks kraam"
+    },
+    "devrolijkenoot": {
+      "realname": "de vrolijke noot"
+    },
+    "villavolta": {
+      "babyswitch": true,
+      "area": "Marerijk",
+      "minlength": "Kinderen &#60;1 m onder begeleiding",
+      "realname": "villa volta",
+      "openingdate": "4 april 1996",
+      "quetype": "Overdekt",
+      "copacity": "1200 per uur",
+      "rideduration": "10 minuten",
+      "type": "Madhouse"
+    },
+    "jorisendedraak": {
+      "babyswitch": true,
+      "area": "Ruigrijk",
+      "minlength": "1,10 m",
+      "realname": "joris en de draak",
+      "openingdate": "1 juli 2010",
+      "quetype": "Buiten",
+      "copacity": "1700 per uur",
+      "rideduration": "2 minuten",
+      "speed": "75 km/h",
+      "photopoint": "fotopuntjorisendedraak",
+      "trains": "4",
+      "trackheight": 25,
+      "type": "Houten race-achtbaan",
+      "builder": "Great Coasters International"
+    },
+    "baron1898": {
+      "babyswitch": true,
+      "area": "Ruigrijk",
+      "frontrow": "baron1898frontrow",
+      "minlength": "1,40 m",
+      "openingdate": "1 juli 2015",
+      "quetype": "Buiten met overdekte stukjes",
+      "copacity": "900 per uur",
+      "rideduration": "130 sec",
+      "speed": "90 km/u",
+      "photopoint": "fotopuntbaron1898",
+      "trains": "3",
+      "singleriderid": "baron1898singlerider",
+      "trackheight": 30,
+      "type": "Divecoaster",
+      "unavaliblefor": "Mensen met lichamelijk letsel",
+      "builder": "Bolliger & Mabillard"
+    },
+    "baron1898singlerider": {
+      "realname": "baron1898 (singlerider)",
+      "builder": "Bolliger & Mabillard"
+    },
+    "carnavalfestival": {
+      "area": "Reizenrijk",
+      "minlength": "Kinderen &#60;1 m onder begeleiding",
+      "realname": "carnaval festival",
+      "openingdate": "1 juni 1984",
+      "quetype": "Overdekt",
+      "copacity": "1600 per uur",
+      "speed": "1,8 km/h",
+      "photopoint": "fotopuntcarnavalfestival",
+      "trains": "118",
+      "type": "Darkride"
+    },
+    "kindervreugd": {
+      "area": "Marerijk",
+      "openingdate": "1935",
+      "type": "Speeltuin"
+    },
+    "volkvanlaafmonorail": {
+      "area": "Marerijk",
+      "minlength": "Kinderen &#60;1,20 m onder begeleiding",
+      "realname": "volk van laaf monorail",
+      "openingdate": "12 april 1990 (trappers) en 13 april 1995 (elektrisch)",
+      "quetype": "Gedeeltelijk overdekt",
+      "rideduration": "7 minuten",
+      "trains": "25",
+      "type": "Monorail",
+      "unavaliblefor": "Rolstoekgebruikers"
+    },
+    "carrouselsantonpieckplein": {
+      "area": "Marerijk",
+      "minlength": "Kinderen &#60;1 m onder begeleiding",
+      "realname": "carrousels (antonpieck plein)",
+      "type": "carousels"
+    },
+    "monsieurcannibale": {
+      "area": "Reizenrijk",
+      "minlength": "Kinderen &#60;1 m onder begeleiding",
+      "realname": "monsieur cannibale",
+      "openingdate": "3 mei 1988",
+      "quetype": "Overdekt",
+      "copacity": "1200 per uur",
+      "rideduration": "2:20 of 3 minuten",
+      "trains": "12",
+      "type": "Theekopjesattractie"
+    },
+    "fotopuntbobbaan": {
+      "realname": "bobbaan (fotopunt)"
+    },
+    "fotopuntpiraa": {
+      "realname": "piraña (fotopunt)"
+    },
+    "vogelrok": {
+      "babyswitch": true,
+      "area": "Reizenrijk",
+      "minlength": "1,20 m",
+      "openingdate": "9 april 1998",
+      "quetype": "Overdekt",
+      "copacity": "1600 per uur",
+      "rideduration": "1:31 minuten",
+      "speed": "65 km/h",
+      "trains": "3 treinen met 6 coaches",
+      "trackheight": 25,
+      "type": "Overdekte stalen achtbaan",
+      "unavaliblefor": "Mensen met lichamelijk letsel",
+      "builder": "Vekoma"
+    },
+    "eftelingmuseum": {
+      "area": "Marerijk",
+      "realname": "efteling museum",
+      "openingdate": "1 apr 2004",
+      "type": "museum"
+    },
+    "avonturendoolhof": {
+      "area": "Reizenrijk",
+      "realname": "avonturen doolhof",
+      "openingdate": "13 april 1995",
+      "type": "Doolhof"
+    },
+    "fotopuntdevliegendehollander": {
+      "realname": " de vliegende hollander (fotopunt)"
+    },
+    "fotopuntjorisendedraak": {
+      "realname": "joris en de draak (fotopunt)"
+    },
+    "kleuterhof": {
+      "area": "Reizenrijk",
+      "openingdate": "1994",
+      "type": "Speeltuin"
+    },
+    "gondoletta": {
+      "area": "Reizenrijk",
+      "minlength": "Kinderen &#60;1,20 m onder begeleiding",
+      "openingdate": "13 april 1981",
+      "quetype": "Buiten",
+      "copacity": "720 per uur",
+      "rideduration": "20 minuten",
+      "trains": "40",
+      "type": "Tow Boat Ride"
+    },
+    "fotopuntpython": {
+      "realname": "python (fotopunt)"
+    },
+    "fotopuntbaron1898": {
+      "realname": "baron1898 (fotopunt)"
+    },
+    "pagode": {
+      "area": "Reizenrijk",
+      "minlength": "1,10 m",
+      "openingdate": "1987",
+      "copacity": "720 per uur",
+      "rideduration": "5 min 10 sec",
+      "type": "Uitkijktoren"
+    },
+    "pandadroom": {
+      "area": "Anderrijk",
+      "openingdate": "28 maart 2002",
+      "quetype": "Overdekt",
+      "copacity": "1200 per rit",
+      "rideduration": "10 minuten",
+      "type": "3D-bioscoop"
+    },
+    "spookslot": {
+      "area": "Anderrijk",
+      "openingdate": "10 mei 1978",
+      "quetype": "Overdekt",
+      "copacity": "1000 per uur",
+      "rideduration": "7 minuten",
+      "type": "Spookhuis"
+    },
+    "pirana": {
+      "babyswitch": true,
+      "area": "Anderrijk",
+      "minlength": "&#60;1 m op schoot",
+      "realname": "piraña",
+      "openingdate": "18 mei 1983",
+      "quetype": "Buiten",
+      "copacity": "2000 per uur",
+      "rideduration": "5 minuten",
+      "speed": "20 km/h",
+      "photopoint": "fotopuntpiraa",
+      "trains": "45",
+      "type": "Rapid river",
+      "unavaliblefor": "Mensen met lichamelijk letsel"
+    },
+    "bobbaan": {
+      "babyswitch": true,
+      "area": "Anderrijk",
+      "minlength": "zelfstandig kunnen lopen",
+      "openingdate": "4 april 1985",
+      "quetype": "Overdekt",
+      "copacity": "750 per uur",
+      "rideduration": "2:10 minuten",
+      "speed": "60 km/h",
+      "photopoint": "fotopuntbobbaan",
+      "trains": "8",
+      "singleriderid": "bobsingleriders",
+      "trackheight": 20,
+      "type": "Bobslee-achtbaan",
+      "unavaliblefor": "Mensen met lichamelijk letsel, zwangere vrouwen",
+      "builder": "Intamin AG"
+    },
+    "bobsingleriders": {
+      "realname": "bobbaan (singleriders)"
+    },
+    "fatamorgana": {
+      "area": "Anderrijk",
+      "minlength": "&#60;1,20 m onder begeleiding",
+      "realname": "fata morgana",
+      "openingdate": "27 maart 1986",
+      "quetype": "Overdekt",
+      "copacity": "1800 per uur",
+      "rideduration": "8 minuten",
+      "speed": "2 km/u",
+      "trains": "14",
+      "type": "Darkride",
+      "builder": "Intamin AG"
+    },
+    "symbolica": {
+      "babyswitch": true,
+      "area": "Fantasierijk",
+      "minlength": "Kinderen &#60;1 m onder begeleiding",
+      "quetype": "Buiten",
+      "copacity": "1400 per uur",
+      "rideduration": "6-7 min",
+      "photopoint": "fotopuntsymbolica",
+      "trains": "34 (in groepen van 3)",
+      "singleriderid": "symbolicasingleriders",
+      "type": "Darkride",
+      "unavaliblefor": "baby's"
+    },
+    "symbolicasingleriders": {
+      "realname": "symbolica (singleriders)"
+    },
+    "theaterrestaurantapplaus": {
+      "realname": "theater restaurant applaus"
+    },
+    "desoeteinval": {
+      "realname": "de soete inval"
+    }
+  },
+  "areas": [
+    "Marerijk",
+    "Ruigrijk",
+    "Anderrijk",
+    "Reizenrijk",
+    "Fantasierijk"
+  ],
+  "meta": {
+    "opening": "31 mei 1952"
+  },
+  "residence": [
+    "hotel",
+    "bosrijk",
+    "loonsche land"
+  ],
+  "ids": [
+    "ontmoeteftelingbewoners",
+    "stichtinglezenenschrijven",
+    "eenwonderlijkeontmoetingmetruiterthomas",
+    "pardoesdetovernar",
+    "prinsespardijn",
+    "smalltalktonvandevenplein",
+    "grootmoedersoudejaarsbingo",
+    "smalltalkwittepaardplein",
+    "babyblue",
+    "boomerang",
+    "sprookjesboomzingendansmee",
+    "hetwapenvanraveleijn",
+    "hetwapenvanraveleijnlunch",
+    "kleyneklaroen",
+    "denguldengaarde",
+    "eigenheymertonvandevenplein",
+    "hoorndesovervloeds",
+    "smulpaap",
+    "kinderspoor",
+    "jokieswereld",
+    "wafelsalondensuykerbuyk",
+    "sprookjesboomshow",
+    "hetwittepaard",
+    "happinessstationwp",
+    "tpoffertje",
+    "gelaarsdekat",
+    "gamegallery",
+    "grootmoederskeuken",
+    "sprookjessprokkelaar",
+    "halvemaen",
+    "hetsuykerhuys",
+    "panoramalacarte",
+    "panoramaselfservice",
+    "panoramakiosk",
+    "korfje",
+    "pandashop",
+    "doudetuffer",
+    "polleskeuken",
+    "rondjevandemolen",
+    "degebrandeboon",
+    "tokopagode",
+    "stationdeoost",
+    "stoomcarrousel",
+    "polkamarina",
+    "debazaar",
+    "eigenheymerbijstationdeoost",
+    "efteldingen",
+    "stoomtreinr",
+    "stoomtreinm",
+    "dekombuys",
+    "unoxkraamvliegendehollanderplein",
+    "demeermin",
+    "flierefluiter",
+    "melkhuysje",
+    "yoghurtbarbijbaron1898",
+    "hetseylendfregat",
+    "unoxkraampiraaplein",
+    "wittewalvis",
+    "indenoudenmarskramer",
+    "droomvlucht",
+    "python",
+    "casacaracol",
+    "pythonsinglerider",
+    "desteenbok",
+    "burgerbackerij",
+    "stroopwafelchalet",
+    "eigenheymersteenbokplein",
+    "schnitzelchalet",
+    "oase",
+    "dromerijen",
+    "devliegendehollander",
+    "raveleijn",
+    "octopus",
+    "hollandsegebakskraam",
+    "devrolijkenoot",
+    "loetiek",
+    "villavolta",
+    "jorisendedraak",
+    "baron1898",
+    "baron1898singlerider",
+    "carnavalfestival",
+    "kindervreugd",
+    "volkvanlaafmonorail",
+    "jokieenjet",
+    "carrouselsantonpieckplein",
+    "monsieurcannibale",
+    "fotopuntbobbaan",
+    "fotopuntpiraa",
+    "vogelrok",
+    "eftelingmuseum",
+    "avonturendoolhof",
+    "fotopuntdevliegendehollander",
+    "fotopuntjorisendedraak",
+    "kleuterhof",
+    "gondoletta",
+    "fotopuntpython",
+    "fotopuntbaron1898",
+    "pagode",
+    "pandadroom",
+    "spookslot",
+    "pirana",
+    "bobbaan",
+    "bobsingleriders",
+    "fatamorgana",
+    "sprookjesboomerwaseens",
+    "symbolica",
+    "symbolicasingleriders",
+    "aquanura",
+    "sprookjesboom",
+    "theaterrestaurantapplaus",
+    "desoeteinval"
+  ]
+}
